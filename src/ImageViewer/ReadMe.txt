@@ -4,15 +4,14 @@ You can use any other version of VS as well.
 Project video
 https://www.youtube.com/watch?v=7kCXe-VGSZo&list=PLG6ePePp5vvYuLDHpvaT0YwqPG88P6MCd&index=3
 
-
-Thanks for downloading my code.
+Have fun coding.
 
 stay happy and keep smiling :-)
 
 yusufshakeel
 
-facebook.com/yusufshakeel
-youtube.com/yusufshakeel
-plus.google.com/+YusufShakeel
-yusufshakeelblog.blogspot.in
-github.com/yusufshakeel
+https://www.facebook.com/yusufshakeel
+https://www.youtube.com/yusufshakeel
+https://plus.google.com/+YusufShakeel
+http://yusufshakeelblog.blogspot.in
+https://github.com/yusufshakeel
