@@ -1,5 +1,5 @@
 For this project I am using Visual Studio 2012 Express Edition.
-You can use any other version of VS as well.
+You can use any other version of VS.
 
 Project video
 https://www.youtube.com/watch?v=EYf3Teh0nqM
