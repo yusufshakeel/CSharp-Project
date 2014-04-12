@@ -5,7 +5,15 @@ C# project
 
 By: Yusuf Shakeel
 
-Date: 12 April 2014 Sat
+Date: 12 April 2014 Saturday
+
+[facebook.com/yusufshakeel](https://www.facebook.com/yusufshakeel)
+
+[youtube.com/yusufshakeel](https://www.youtube.com/yusufshakeel)
+
+[github.com/yusufshakeel](https://www.github.com/yusufshakeel)
+
+[plus.google.com/+YusufShakeel](https://plus.google.com/+YusufShakeel/posts)
 
 
 
