@@ -5,14 +5,14 @@ Project video
 https://www.youtube.com/watch?v=EYf3Teh0nqM
 
 
-Thanks for downloading my code.
+Have fun coding.
 
 stay happy and keep smiling :-)
 
 yusufshakeel
 
-facebook.com/yusufshakeel
-youtube.com/yusufshakeel
-plus.google.com/+YusufShakeel
-yusufshakeelblog.blogspot.in
-github.com/yusufshakeel
+https://www.facebook.com/yusufshakeel
+https://www.youtube.com/yusufshakeel
+https://plus.google.com/+YusufShakeel
+http://yusufshakeelblog.blogspot.in
+https://github.com/yusufshakeel
